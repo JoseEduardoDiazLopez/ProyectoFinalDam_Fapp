@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1025273838035",
+    "project_id": "proyectospfut",
+    "storage_bucket": "proyectospfut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025273838035:android:792e55de3e8cbd9f6d1726",
+        "android_client_info": {
+          "package_name": "com.MUNFUT"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfRri20NlWfU-zRua3j2WveE-vzN4ayVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025273838035:android:cc160b8cec6bdda56d1726",
+        "android_client_info": {
+          "package_name": "com.MUNFUT.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfRri20NlWfU-zRua3j2WveE-vzN4ayVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
